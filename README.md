@@ -3,7 +3,7 @@ Dictionary Using Python.
 Here I've Used python and the data I got from google.Here the data is stored on data.Json file.As the name says it is a dictionary you can search for any word and you will get the
 meaning of that word in english.Here you can by mistakenly typed rainn instead of rain it will suggest you rain because of get_close() which suggest almost 80% correct word to you
 if you type wrong spelling of any word and you can search for as many as you can in one go and if you have to exit then you can just type exit and as we know exit also have some 
-meaning so it will ask you if you want to exit type some key and if you want the meaning of exit then you cn some another key as mentioned.
+meaning so it will ask you if you want to exit type some key and if you want the meaning of exit then you can enter some another key as mentioned.
 
 1:- search for any word in Dictionary.py file.
 
